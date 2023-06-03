@@ -7,7 +7,7 @@ Welcome to Kunder Self-Bot! 🎶🎉
 
 1️⃣ Go to the Releases tab and download the latest version of the bot.
 2️⃣ Unpack the zip file on your computer.
-3️⃣ Open the env file with notepad++ or any text editor that is in support and follow the instructions to configure the bot.
+3️⃣ Open the env file with notepad++ or any text editor that is in support and follow the instructions to configure the bot. [Notepad++: https://notepad-plus-plus.org/downloads/]
 
 ⚠️ Requirements:
 Make sure you have Node.js installed. You can download it from the official website: Node.js Website [https://nodejs.org/en/download]
