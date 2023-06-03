@@ -1,3 +1,4 @@
+
 🤖 Kunder Discord Self-bot 🎵🔊
 
 Welcome to Kunder Self-Bot! 🎶🎉
@@ -18,4 +19,6 @@ Make sure you have Node.js installed. You can download it from the official webs
 🔸 !vcleave: Leave the voice channel.
 🔸 !reconnect: Reconnect to the voice channel.
 
-🎊 Enjoy using the Discord Bot Name! 🎧🎶
+⚠️ Please note that the !gcconnect command is currently under development and does not work. Stay tuned for future updates!
+
+🎊 Enjoy using Kunder Discord Self-Bot! 🎧🎶
