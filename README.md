@@ -9,7 +9,7 @@ Welcome to Kunder Self-Bot! 🎶🎉
 3️⃣ Open the env file and follow the instructions to configure the bot.
 
 ⚠️ Requirements:
-Make sure you have Node.js installed. You can download it from the official website: Node.js Website
+Make sure you have Node.js installed. You can download it from the official website: Node.js Website [https://nodejs.org/en/download]
 
 💡 Random Bot Features 💡
 
