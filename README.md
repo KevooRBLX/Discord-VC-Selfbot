@@ -1,6 +1,6 @@
 🤖 Kunder Discord Self-bot 🎵🔊
 
-Welcome to the amazing Discord Bot Name! 🎶🎉
+Welcome to Kunder Self-Bot! 🎶🎉
 
 📚 Read the following instructions carefully:
 
